@@ -1,0 +1,10 @@
+{
+  "name": "io.snippr.editors.atom",
+  "version": "1.0.0",
+  "description": "A plugin that allows snippr.io to integrate with Atom",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {
+  }
+}
