@@ -1,11 +1,11 @@
 {
-  "name": "io.snippr.editors.atom",
+  "name": "snippr-io-editors-atom",
   "version": "1.0.0",
   "repository": "",
   "description": "A plugin that allows snippr.io to integrate with Atom",
   "repository": {
     "type": "git",
-    "url": "https://github.com/snippr-io/io.snippr.editors.atom.git"
+    "url": "https://github.com/snippr-io/snippr-io-editors-atom.git"
   },
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
